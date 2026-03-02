@@ -27,7 +27,7 @@ I'm a versatile developer who enjoys building everything from full-stack web app
 
 Here are some of the projects I'm most proud of:
 
-* **[UniRide](https://github.com/AmmarK10/UniRide)** *TypeScript* A modern application built with TypeScript. *(Add a quick 1-sentence description of what UniRide does here!)*
+* **[UniRide](https://github.com/AmmarK10/UniRide)**  A modern application built with TypeScript. *Making comute easier for students throughout Pakistan*
 
 * **Security & Automation Scripts** *Python* Developed an **[Advanced Keylogger with Screenshots](https://github.com/AmmarK10/AdvancedKeyloggerWithScreenshots)** and an **[IP Logger](https://github.com/AmmarK10/IP_Logger)** to explore system monitoring, network tracking, and automation.
 
@@ -40,6 +40,7 @@ Here are some of the projects I'm most proud of:
 ###  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmmarK10&show_icons=true&theme=radium&hide_border=true" alt="Ammar's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmmarK10&show_icons=true&theme=radium&hide_border=true&count_private=true&hide=issues,prs" alt="Ammar's GitHub Stats" width="48%" />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarK10&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="48%" />
 </p>
