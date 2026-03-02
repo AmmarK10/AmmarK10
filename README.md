@@ -1,16 +1,16 @@
-# Hi there, I'm Ammar Khan! 👋
+# Hi there, I'm Ammar Khan! 
 
-### 👨‍💻 About Me
+###  About Me
 I'm a versatile developer who enjoys building everything from full-stack web applications to low-level system scripts and security tools. Whether it's crafting a smooth user experience in TypeScript or writing Python scripts to automate tasks, I love bringing ideas to life through code.
 
-- 🔭 I’m currently working on building scalable applications and expanding my knowledge in cybersecurity.
-- 🌱 Always learning and exploring new technologies.
-- 💬 Ask me about: **Python, TypeScript, C, and Web Development.**
-- 📫 How to reach me: [Your Email](mailto:Khanammar0506@gmail.com) 
+-  I’m currently working on building scalable applications and expanding my knowledge in cybersecurity.
+-  Always learning and exploring new technologies.
+-  Ask me about: **Python, TypeScript, C, and Web Development.**
+-  How to reach me: [My Email](mailto:Khanammar0506@gmail.com) 
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Languages:**
 <p align="left">
@@ -23,7 +23,7 @@ I'm a versatile developer who enjoys building everything from full-stack web app
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 Here are some of the projects I'm most proud of:
 
@@ -37,7 +37,7 @@ Here are some of the projects I'm most proud of:
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmmarK10&show_icons=true&theme=radium&hide_border=true" alt="Ammar's GitHub Stats" width="48%" />
