@@ -6,7 +6,7 @@ I'm a versatile developer who enjoys building everything from full-stack web app
 - 🔭 I’m currently working on building scalable applications and expanding my knowledge in cybersecurity.
 - 🌱 Always learning and exploring new technologies.
 - 💬 Ask me about: **Python, TypeScript, C, and Web Development.**
-- 📫 How to reach me: [Your Email](mailto:your.email@example.com) | [LinkedIn](https://linkedin.com/in/your-profile)
+- 📫 How to reach me: [Your Email](mailto:Khanammar0506@gmail.com) 
 
 ---
 
