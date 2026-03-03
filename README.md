@@ -29,11 +29,11 @@ Here are some of the projects I'm most proud of:
 
 * **[UniRide](https://github.com/AmmarK10/UniRide)**  A modern application built with TypeScript. *Making comute easier for students throughout Pakistan*
 
-* **Security & Automation Scripts** *Python* Developed an **[Advanced Keylogger with Screenshots](https://github.com/AmmarK10/AdvancedKeyloggerWithScreenshots)** and an **[IP Logger](https://github.com/AmmarK10/IP_Logger)** to explore system monitoring, network tracking, and automation.
+* **Security & Automation Scripts** Developed an **[Advanced Keylogger with Screenshots](https://github.com/AmmarK10/AdvancedKeyloggerWithScreenshots)** and an **[IP Logger](https://github.com/AmmarK10/IP_Logger)** to explore system monitoring, network tracking, and automation.
 
-* **Classic Games & CLI Tools** *C* Built a terminal-based **[Snake Game](https://github.com/AmmarK10/Snake-Game)** and a **[ChatBot](https://github.com/AmmarK10/chatBot)** using C to solidify core programming logic and memory management.
+* **Classic Games & CLI Tools** Built a **[Snake Game](https://github.com/AmmarK10/Snake-Game)** in C Language using SDL3 and a terminal based **[ChatBot](https://github.com/AmmarK10/chatBot)** using C to solidify core programming logic and memory management.
 
-* **[GPA Calculator](https://github.com/AmmarK10/GPACalculator)** *HTML / Web* A clean, intuitive web utility to help students track and calculate their academic performance.
+* **[GPA Calculator](https://github.com/AmmarK10/GPACalculator)** A clean, intuitive web utility to help students track and calculate their academic performance.
 
 ---
 
